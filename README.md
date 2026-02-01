@@ -9,8 +9,9 @@ Simple, loving Flutter calculator built for my mom. Default language: **Nepali**
 Replace paths with your screenshots:
 
 
-![Nepali UI](images/nepali.jpg)
-![English UI](images/english.jpg)
+| Nepali UI | English UI |
+|----------|------------|
+| ![](images/nepali.jpg) | ![](images/english.jpg) |
 
 ---
 
