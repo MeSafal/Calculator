@@ -4,9 +4,7 @@ Simple, loving Flutter calculator built for my mom. Default language: **Nepali**
 
 ---
 
-## Screenshots
-
-Replace paths with your screenshots:
+## Screenshots:
 
 
 | Nepali UI | English UI |
